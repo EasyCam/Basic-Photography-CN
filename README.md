@@ -1,18 +1,10 @@
-# 笔记项目概述
-本系列是一个新坑，是对[Langford's Basic Photography](https://www.sciencedirect.com/science/book/9780240521688)的读书笔记。
+# 项目概述
 
-之前在[摄影相关课程资源和教材分享](https://zhuanlan.zhihu.com/p/30334218)一文中主要谈及的都是中文原版或者翻译成中文的教材.
+这个项目最开始的定位是一个读书笔记而已。
 
-这次这本是英文的原版教材,第一版似乎是与1965年发行,距今也半个世纪了.经常能看到有朋友点评说这本书太古老太落伍.不过好在这本书好像还没有中文译本.所以正好把阅读笔记分享出来,供大家批评指正,互相交流一下.
+原来是五年前对[Langford's Basic Photography](https://www.sciencedirect.com/science/book/9780240521688)的读书笔记。
+后来发现教科书内容总是不那么灵活，因此也就不局限于教材本身，准备从更多方面来收集资料。
 
-大家可以通过京东购买纸质版,但是价格比较贵,目前(2018年06月09日14:52:01)价格是一千多,而美亚上要便宜一些,[第八版](https://www.amazon.com/Langfords-Basic-Photography-Eighth-photographers/dp/B000V8AKZG/ref=mt_other?_encoding=UTF8&me=)只要几美元,[第九版](https://www.amazon.com/Langfords-Basic-Photography-Serious-Photographers-ebook/dp/B01ABXLAFY/ref=mt_kindle?_encoding=UTF8&me=)价格也就是几十美元.
-
-
-
-
-
-
-
-
+现在就尝试着将其改成一个类似简单指南的探索项目吧。
 
 
