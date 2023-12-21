@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 490 368" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="layer1">
+        <rect id="KAF39000" x="1" y="1" width="488" height="366" style="fill:rgb(238,238,234);stroke:black;stroke-width:2px;"/>
+        <rect id="FullFrame" x="1" y="129" width="358" height="238.001" style="fill:none;stroke:rgb(32,74,135);stroke-width:2px;"/>
+        <rect id="APS-H" x="1" y="183" width="277" height="184" style="fill:none;stroke:rgb(0,0,128);stroke-width:2px;"/>
+        <rect id="APS-C1" x="1" y="213" width="235" height="154" style="fill:none;stroke:rgb(128,128,0);stroke-width:2px;"/>
+        <rect id="APS-C2" x="1" y="220" width="221" height="147" style="fill:none;stroke:rgb(0,128,0);stroke-width:2px;"/>
+        <rect id="FourThirds" x="1" y="239" width="171" height="128" style="fill:none;stroke:rgb(212,0,0);stroke-width:2px;"/>
+        <rect id="_1" serif:id="1" x="1" y="281" width="130" height="86" style="fill:none;stroke:rgb(0,128,128);stroke-width:2px;"/>
+        <rect id="_2-3" serif:id="2/3" x="1" y="303" width="86" height="64" style="fill:none;stroke:rgb(0,0,128);stroke-width:2px;"/>
+        <rect id="_1-1.8" serif:id="1/1.8" x="1" y="315.8" width="69.8" height="51.2" style="fill:none;stroke:rgb(255,102,0);stroke-width:2px;"/>
+        <rect id="_1-2.5" serif:id="1/2.5" x="1" y="326.1" width="55.6" height="40.9" style="fill:none;stroke:rgb(0,128,0);stroke-width:2px;"/>
+        <rect id="rect2440" x="282.481" y="177.61" width="158.033" height="148.544" style="fill:url(#_Linear1);"/>
+        <rect id="rect3253" x="61.559" y="346.455" width="70.024" height="16.476" style="fill:url(#_Linear2);"/>
+        <rect id="rect8293" x="82.187" y="302.393" width="87.649" height="63.435" style="fill:url(#_Linear3);"/>
+        <g id="paths">
+            <path id="path-APS-C--non-Canon-" serif:id="path-APS-C (non-Canon)" d="M298.859,220.721L240.997,220.721" style="fill:none;stroke:rgb(128,128,0);stroke-width:2px;"/>
+            <path id="path-APS-C--Canon-" serif:id="path-APS-C (Canon)" d="M298.862,248.264L226.692,248.264" style="fill:none;stroke:rgb(0,128,0);stroke-width:2px;"/>
+            <path id="path-4-3rds" serif:id="path-4/3rds" d="M298.87,301.358L176.369,301.358" style="fill:none;stroke:rgb(212,0,0);stroke-width:2px;"/>
+            <path id="path-2-3" serif:id="path-2/3" d="M123.842,313.143L91.302,313.143" style="fill:none;stroke:rgb(0,0,128);stroke-width:2px;"/>
+            <path id="path-1-1.8" serif:id="path-1/1.8" d="M107.492,333.454L75.071,333.454" style="fill:none;stroke:rgb(255,102,0);stroke-width:2px;"/>
+            <path id="path-1-2.5" serif:id="path-1/2.5" d="M108.004,354.461L60.726,354.461" style="fill:none;stroke:rgb(0,128,0);stroke-width:2px;"/>
+        </g>
+        <g id="g2518">
+            <g id="text2520" transform="matrix(1,0,0,1,249.76,21.806)">
+                <text x="-121.704px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Medium format 48 x 36 mm</text>
+                <text x="-120.62px" y="20px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">(Kodak KAF 39000 sensor)</text>
+            </g>
+            <g id="text2534" transform="matrix(1,0,0,1,199.554,123.085)">
+                <text x="-136.582px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill:rgb(32,74,135);">35 mm &quot;full frame&quot; 36 x 24 mm</text>
+            </g>
+            <g id="text2548" transform="matrix(1,0,0,1,152.673,175.178)">
+                <text x="-69.468px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill:rgb(0,0,128);">APS-H (Canon)</text>
+            </g>
+            <g id="text3212" transform="matrix(1,0,0,1,86.654,274.827)">
+                <text x="-71.724px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill:rgb(0,128,128);">1&quot; (Sony<tspan x="2.817px 8.374px " y="0px 0px ">, </tspan>Nikon)</text>
+            </g>
+        </g>
+        <g id="g9942">
+            <g id="text2552">
+                <g transform="matrix(1,0,0,1,306.452,211.655)">
+                    <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill:rgb(128,128,0);">APS-C (Nikon DX,</text>
+                </g>
+                <g transform="matrix(1,0,0,1,306.452,231.655)">
+                    <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill:rgb(128,128,0);">Pentax, Sony)</text>
+                </g>
+            </g>
+            <g id="text3326" transform="matrix(1,0,0,1,306.296,255.224)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill:rgb(0,128,0);">APS-C (Canon)</text>
+            </g>
+            <g id="text3334" transform="matrix(1,0,0,1,304.489,307.235)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill:rgb(212,0,0);">M43  17.3 × 13 mm</text>
+            </g>
+            <g id="text5070" transform="matrix(1,0,0,1,128.052,320.031)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill:rgb(0,0,128);">2/3&quot;</text>
+            </g>
+            <g id="text3338" transform="matrix(1,0,0,1,108.95,362.051)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill:rgb(0,128,0);">1/2.5&quot;</text>
+            </g>
+            <g id="text5074" transform="matrix(1,0,0,1,108.95,341.495)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill:rgb(255,102,0);">1/1.8&quot;</text>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.7283,148.544,-148.544,-0.7283,349.481,177.61)"><stop offset="0" style="stop-color:rgb(238,238,234);stop-opacity:0"/><stop offset="0.09" style="stop-color:rgb(238,238,234);stop-opacity:0.9"/><stop offset="0.92" style="stop-color:rgb(238,238,234);stop-opacity:0.95"/><stop offset="1" style="stop-color:rgb(238,238,234);stop-opacity:0"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.32271,16.4762,-16.4762,-0.32271,91.2469,346.455)"><stop offset="0" style="stop-color:rgb(238,238,234);stop-opacity:0"/><stop offset="0.09" style="stop-color:rgb(238,238,234);stop-opacity:0.9"/><stop offset="0.92" style="stop-color:rgb(238,238,234);stop-opacity:0.95"/><stop offset="1" style="stop-color:rgb(238,238,234);stop-opacity:0"/></linearGradient>
+        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.404,63.4351,-63.4351,-0.404,119.347,302.393)"><stop offset="0" style="stop-color:rgb(238,238,234);stop-opacity:0"/><stop offset="0.09" style="stop-color:rgb(238,238,234);stop-opacity:0.9"/><stop offset="0.92" style="stop-color:rgb(238,238,234);stop-opacity:0.95"/><stop offset="1" style="stop-color:rgb(238,238,234);stop-opacity:0"/></linearGradient>
+    </defs>
+</svg>
