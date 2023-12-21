@@ -1,0 +1,27 @@
+﻿,Sensor format types and dimensions,,,,,,
+Device,Type,Diagonal (mm),Width (mm),Height (mm),Aspect Ratio,Area (mm2),Crop factor
+iPhone5,"1/3.2"" ",5.68,4.54,3.42,4/3,15.5 ,7.61 
+iPhone 6,"1/3"" ",6,4.8,3.6,4/3,17.3 ,7.21 
+iPhone XS,"1/2.5""",7.18,5.76,4.29,4/3,24.7 ,6.02 
+GoPro HERO3,"1/2.3""",7.66,6.17,4.55,4/3,28.1 ,5.64 
+Xiaomi Mi 9,"1/2""",8,6.4,4.8,4/3,30.7 ,5.41 
+Huawei P30 Pro,"1/1.7""",9.5,7.6,5.7,4/3,43.3 ,4.55 
+Samsung Galaxy S20 Ultra,"1/1.33""",12,9.6,7.2,4/3,69.1 ,3.58 
+Nokia 808 PureView,"1/1.2""",13.33,10.67,8,4/3,85.4 ,3.24 
+Xiaomi Mi 11 Ultra,"1/1.12"" ",14.29,11.43,8.57,4/3,98.0 ,3.03 
+Sony RX100,"1""",15.86,13.2,8.8,3/2,116.2 ,2.72 
+Olympus EPL1,"4/3, m4/3",21.6,17.3,13,4/3,224.9 ,2.00 
+Canon EF-S,APS-C(Canon),26.82,22.3,14.9,3/2,332.3 ,1.61 
+"Sony α, Sony E, Nikon DX, Pentax K, Fuji X",APS-C,28.2,23.6,15.6,3/2,368.2 ,1.50 
+Canon APS-H,APS-H(Canon),33.5,27.9,18.6,3/2,518.9 ,1.29 
+"Canon EF, Nikon FX, Sony α, Sony FE, Leica M",35 mm film full-frame,43.3,36,24,3/2,864 ,1
+"Pentax 645D, Fuji GFX 50S",44*33 mm,55,44,33,4/3,1441 ,0.78 
+Kodak KAF 39000 CCD,Kodak KAF 39000 CCD,61.3,49,36.8,4/3,1803 ,0.71 
+Medium-format 6×4.5 cm,Medium-format 6×4.5 cm (645 format),70,42,56,3/4,2352 ,0.61 
+Medium-format 6×6 cm,Medium-format 6×6 cm,79,56,56,1/1,3136 ,0.54 
+Medium-format 6×7 cm,Medium-format 6×7 cm,89.6,70,56,5/4,3920 ,0.47 
+Medium-format 6×8 cm,Medium-format 6×8 cm,94.4,76,56,4/3,4256 ,0.46 
+Medium-format 6×9 cm,Medium-format 6×9 cm,101,84,56,3/2,4704 ,0.43 
+Large-format film 4×5 inch,Large-format film 4×5 inch,150,121,97,5/4,11737 ,0.29 
+Large-format film 5×7 inch,Large-format film 5×7 inch,210,178,127,7/5,22606 ,0.24 
+Large-format film 8×10 inch,Large-format film 8×10 inch,300,254,203,5/4,51562 ,0.14 
