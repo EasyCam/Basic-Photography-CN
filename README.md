@@ -2,8 +2,8 @@
 
 这个项目最开始的定位是一个读书笔记而已。
 
-原来是五年前对[Langford&#39;s Basic Photography](https://www.sciencedirect.com/science/book/9780240521688)的读书笔记。
-后来发现教科书内容总是不那么灵活，因此也就不局限于教材本身，准备从更多方面来收集资料。
+原来是五年前对[Langford 's Basic Photography](https://www.sciencedirect.com/science/book/9780240521688)的读书笔记。
+后来发现教科书内容总是不那么灵活，因此也就不局限于教材本身，准备从更多方面来收集资料。比如 https://swestern.weebly.com/35-mm-photography.html 的很多内容。
 
 现在就尝试着将其改成一个类似简单指南的探索项目吧。
 
@@ -912,15 +912,52 @@ M43的机器非常轻巧，防抖效果强悍，对焦速度也很快。唯一�
 
 ## 2.2 焦距选择
 
+![](./images/focal_length.png)
+
+![](./images/17-600.jpg)
+
+![](./images/focal_length1.png)
+
 ## 2.3 快门速度
+
+![](./images/shutter-speed-table.jpg)
+
+![](./images/shutter_speed.png)
+
+![](./images/shutter_speed2.jpg)
+
+![](./images/shutter_speed3.jpg)
+
+
 
 ## 2.4 光圈大小
 
+![](./images/aperture.jpg)
+
+![](./images/aperture2.jpg)
+
+![](./images/aperture3.jpg)
+
+![](./images/exposure-triangle-aperture1.jpg)
+
+
 ## 2.5 感光度
+
+![](./images//ISO_Compare.jpg)
+
+![](./images/ISO2.jpg)
 
 ## 2.6 拍摄模式
 
+![](./images/Dial_A450.jpg)
+
+![](./images/Dial_KX.jpg)
+
+![](./images/Dial_A7R5.jpg)
+
 ## 2.7 曝光补偿
+
+![](./images/ev.jpg)
 
 # 3. 前期工作
 
